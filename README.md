@@ -1,0 +1,4 @@
+# NEON RUSH v2
+PWA mobile-first pour iPhone. Déployer les fichiers à la racine du dépôt GitHub Pages.
+Fonctions : séances hebdomadaires, choix du nombre de séries par exercice avant la saisie, poids/répétitions enregistrés série par série, comparaison avec la séance précédente, conseils de séance, historique CSV, recherche nutrition avec FAQ intégrée.
+La recherche nutrition utilise une petite base de réponses prédéfinies : ce n'est pas un assistant IA connecté à Internet. Les données sportives restent dans le stockage local du navigateur.\nVersion 2.1 : suivi journalier des quantités d'eau notées (repère visuel indicatif de 2 000 ml, non obligatoire) et journal personnel des repas. Pas de calcul calorique ou de quotas de macronutriments.\n
